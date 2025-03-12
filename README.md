@@ -23,6 +23,9 @@ The system enables institutions to automate student enrollment, eliminate manual
 - Search & Update Functionality: Implemented Excel search functions to retrieve and edit student records efficiently.
 - Testing & Debugging: Conducted unit tests to validate data storage, image processing, and GUI usability.
 
+## Application Interface
+
+
 ## Project Insights
 The development process provided key learnings:
 - Automating registration numbers simplifies student record management.
@@ -30,6 +33,9 @@ The development process provided key learnings:
 - Image handling adds an extra layer of student identification, improving record accuracy.
 - Search and update functionalities enhance efficiency by enabling quick record modifications.
 - A well-structured GUI ensures ease of use for administrative staff with minimal technical knowledge.
+
+## Project Demo
+
 
 ## Conclusion
 This project provided practical experience in GUI development, Excel data handling, and user-friendly system design. It optimized student enrollment by automating record creation, enhancing data retrieval, and improving overall usability. The integration of profile images, search functions, and editable records adds flexibility to the system.
