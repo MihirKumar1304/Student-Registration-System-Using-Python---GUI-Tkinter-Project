@@ -35,7 +35,7 @@ The development process provided key learnings:
 - A well-structured GUI ensures ease of use for administrative staff with minimal technical knowledge.
 
 ## Project Demo
-
+- <a href="https://github.com/MihirKumar1304/Student-Registration-System-Using-Python--GUI-Tkinter-Project/blob/main/student%20registration%20system!.mp4">Watch the Demo Video Here</a>
 
 ## Conclusion
 This project provided practical experience in GUI development, Excel data handling, and user-friendly system design. It optimized student enrollment by automating record creation, enhancing data retrieval, and improving overall usability. The integration of profile images, search functions, and editable records adds flexibility to the system.
