@@ -1,1 +1,1 @@
-# Student-Registration-System-Using-Python---GUI-Tkinter-Project
+# Student Registration System - GUI Tkinter Project
