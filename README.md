@@ -24,7 +24,7 @@ The system enables institutions to automate student enrollment, eliminate manual
 - Testing & Debugging: Conducted unit tests to validate data storage, image processing, and GUI usability.
 
 ## Application Interface
-
+![Screenshot 2025-03-12 165810](https://github.com/user-attachments/assets/c363ceb3-9026-4edd-8707-0fa401a03e53)
 
 ## Project Insights
 The development process provided key learnings:
